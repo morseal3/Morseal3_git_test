@@ -5,3 +5,4 @@ What year are you in School? -- Freshman
 Where are you from? -- Troy, Michigan
 What is your programming background? -- I took a javascript class in high school and CMSE 201 last semester 
 Will Diamond, diamondw@msu.edu
+Saiyam Kothari, kothar27@msu.edu
